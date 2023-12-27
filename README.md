@@ -28,10 +28,7 @@ Here you'll find a list of books that are highly recommended for anyone interest
 
 We welcome contributions to this repository! If you have a resource to add, please submit a pull request or open an issue to discuss your suggestion.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
-For any questions or feedback regarding this repository, feel free to open an issue or contact the repository maintainers directly.
+For any queries or suggestions, feel free to contact me at [mayankbaluni@gmail.com]
